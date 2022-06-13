@@ -14,7 +14,7 @@ Hier findest du eine kurze Übersicht zu unseren Projekten:
   <tr>
     <td>Juli 2022</td>
     <td>Kajo<br>
-    Teilnahme an einem grossen Finnlandlager inklusive Baumhaus bauen.<br><a href="https://kajo2022.ch/">Mehr Informationen</a></td>
+    Teilnahme an einem grossen Finnlandlager.<br><a href="https://kajo2022.ch/">Mehr Informationen</a></td>
     <td>Läuft</td>
   </tr>
   <tr>
